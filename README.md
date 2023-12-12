@@ -6,3 +6,5 @@
 ## in time of recording start, of the last number is 1 it indicates it started at the time listed. if it is 02 then it started 30 mins after the time shown i.e. 13:30:01
 ## labeled if song, calls, or noise 
 ## conditions can be heliox, regular air, or transition when the box was filling with heliox 
+
+## btw the one file called song! in 1349 folder is nothing ignore it 
